@@ -1,5 +1,5 @@
  Hi, I’m Hanaa 👋
-- I’m interested in programming and combine some art with it✨!
+- I’m interested in programming and combining some art into it✨!
 - I’m currently learning Spring and React🌱!
 
 <!---
