@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DigitalHanaa
-- 👀 I’m interested in programming, combining art with it!
+- 👀 I’m interested in programming and combine some art with it!
 - 🌱 I’m currently learning Spring and React!
 
 <!---
